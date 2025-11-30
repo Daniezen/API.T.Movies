@@ -1,6 +1,5 @@
-﻿
+﻿using API.T.Movies.Services.IServices;
 using API.T.Movies.DAL.Dtos.Category;
-using API.T.Movies.Services.IServices;
 using Microsoft.AspNetCore.Mvc;
 
 namespace API.T.Movies.Controllers
