@@ -21,9 +21,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
     <Folder Include="MoviesMapper\" />
-    <Folder Include="Repository\IRepository\" />
+    <Folder Include="NewFolder\" />
   </ItemGroup>
 
 </Project>
